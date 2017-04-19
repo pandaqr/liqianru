@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="300px" viewBox="0 0 420 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>LookCover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-30.000000, -30.000000)">
+            <g id="LookCover" transform="translate(30.000000, 30.000000)">
+                <rect id="Rectangle-3" fill-opacity="0.4" fill="#D4145A" x="0" y="0" width="420" height="300"></rect>
+                <path d="M210,175 C234.300529,175 254,150 254,150 C254,150 234.300529,125 210,125 C185.699471,125 166,150 166,150 C166,150 185.699471,175 210,175 Z M211,163 C218.179702,163 224,157.179702 224,150 C224,142.820298 218.179702,137 211,137 C203.820298,137 198,142.820298 198,150 C198,157.179702 203.820298,163 211,163 Z" id="Combined-Shape" fill-opacity="0.8" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,114 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="www.liqianru.com" resolutions="1x" timestamp="1484576585642">
+  <folder name="css">
+    <file name="site_global.css" crc="261640114"/>
+    <file name="master_a-master.css" crc="3856100527" ref="index"/>
+    <file name="index.css" crc="289636776" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="polybg2-01.jpg" crc="3989099019" seo="true" ref="phone>index"/>
+    <file name="pasted svg 75865x100.svg" crc="4279549065" ref="phone>index:index"/>
+    <file name="pasted svg 75865x100_poster_.png" crc="4003551473" ref="phone>index"/>
+    <file name="sketch.svg" crc="3781995968" ref="phone>index:index"/>
+    <file name="sketch_poster_.png" crc="4053826456" ref="phone>index"/>
+    <file name="musicplayer.svg" crc="3966282226" ref="phone>index:index"/>
+    <file name="musicplayer_poster_.png" crc="441104005" ref="phone>index"/>
+    <file name="polygon 20 copy.svg" crc="4206549118" ref="phone>index:index"/>
+    <file name="polygon 20 copy_poster_.png" crc="3991679650" ref="phone>index"/>
+    <file name="icon.svg" crc="4180722348" ref="phone>index:index"/>
+    <file name="icon_poster_.png" crc="3772606333" ref="phone>index"/>
+    <file name="button.svg" crc="4095096335" ref="phone>index:index"/>
+    <file name="button_poster_.png" crc="397339811" ref="phone>index"/>
+    <file name="pen-ruler.svg" crc="407439143" ref="phone>index:index"/>
+    <file name="tw1.svg" crc="33287273" ref="phone>index:index"/>
+    <file name="tw1_poster_.png" crc="503316974" ref="phone>index"/>
+    <file name="tw2.svg" crc="3782246080" ref="phone>index:index"/>
+    <file name="tw2_poster_.png" crc="496800668" ref="phone>index"/>
+    <file name="bulbnolihgt.svg" crc="4042650624" ref="phone>index:index"/>
+    <file name="app.svg" crc="436660186" ref="phone>index:index"/>
+    <file name="binggu.svg" crc="451650178" ref="phone>index:index"/>
+    <file name="binggu_poster_.png" crc="77578118" ref="phone>index"/>
+    <file name="binggu2.svg" crc="391303256" ref="phone>index:index"/>
+    <file name="binggu2_poster_.png" crc="3862541693" ref="phone>index"/>
+    <file name="blog2.svg" crc="327404487" ref="phone>index:index"/>
+    <file name="vector.svg" crc="316931592" ref="phone>index:index"/>
+    <file name="bookcover.svg" crc="351069817" ref="phone>index:index"/>
+    <file name="bookcover_poster_.png" crc="4058582389" ref="phone>index"/>
+    <file name="500.svg" crc="3788848883" ref="phone>index:index"/>
+    <file name="500_poster_.png" crc="4044351591" ref="phone>index"/>
+    <file name="skelton.svg" crc="48326036" ref="phone>index:index"/>
+    <file name="skelton_poster_.png" crc="511943026" ref="phone>index"/>
+    <file name="school.svg" crc="4106440808" ref="phone>index:index"/>
+    <file name="global_l.svg" crc="250552989" ref="phone>index:index"/>
+    <file name="infinity2.svg" crc="438057661" ref="phone>index:index"/>
+    <file name="location_f_poster_.png" crc="3918976174" seo="true" ref="phone>index"/>
+    <file name="chats.svg" crc="197110933" ref="phone>index:index"/>
+    <file name="chats_poster_.png" crc="4247770689" ref="phone>index"/>
+    <file name="userprofile.svg" crc="4027432599" ref="phone>index:index"/>
+    <file name="userprofile_poster_.png" crc="4133560707" ref="phone>index"/>
+    <file name="login.svg" crc="342383141" ref="phone>index:index"/>
+    <file name="login_poster_.png" crc="3909949239" ref="phone>index"/>
+    <file name="polypink-01.png" crc="3793709347" ref="phone>index:index"/>
+    <file name="perspective app screens mock-up.jpg" crc="352720443" ref="phone>index:index"/>
+    <file name="lookcover.svg" crc="4218776732" ref="phone>index:index"/>
+    <file name="bingu intro.jpg" crc="3817931564" ref="phone>index:index"/>
+    <file name="perspective_shufu copy.jpg" crc="384174896" ref="phone>index:index"/>
+    <file name="perspective shopbop.jpg" crc="147398224" ref="phone>index:index"/>
+    <file name="pasted svg 75865x1002.svg" crc="4279549065" ref="phone>index:index"/>
+    <file name="pasted svg 75865x100_poster_2.png" crc="300753316" ref="phone>index"/>
+    <file name="email_l.svg" crc="228986734" ref="phone>index:index"/>
+    <file name="email_l_poster_.png" crc="510023415" ref="phone>index"/>
+    <file name="pinterest_l.svg" crc="72404293" ref="phone>index:index"/>
+    <file name="pinterest_l_poster_.png" crc="3895715101" ref="phone>index"/>
+    <file name="polyfooter-04.png" crc="456856496" seo="true" ref="phone>index"/>
+    <file name="wechat-u2948-fr.jpg" crc="3797657915" ref="phone>index"/>
+    <file name="wechat_l.svg" crc="413225349" ref="phone>index:index"/>
+    <file name="wechat_l_poster_.png" crc="4194786378" ref="phone>index"/>
+    <file name="polybg2-012.jpg" crc="274998909" ref="index"/>
+    <file name="pasted svg 47846x29.svg" crc="3939380729" ref="index"/>
+    <file name="pasted svg 47846x29_poster_.png" crc="333743367" ref="index"/>
+    <file name="pasted svg 58222x60.svg" crc="477787519" ref="index"/>
+    <file name="pasted svg 58222x60_poster_.png" crc="4292858466" ref="index"/>
+    <file name="pasted svg 76426x65.svg" crc="3950138276" ref="index"/>
+    <file name="pasted svg 76426x65_poster_.png" crc="490971656" ref="index"/>
+    <file name="pasted svg 59552x81.svg" crc="350179560" ref="index"/>
+    <file name="pasted svg 59552x81_poster_.png" crc="209192891" ref="index"/>
+    <file name="pasted svg 173571x66.svg" crc="217641604" ref="index"/>
+    <file name="pasted svg 173571x66_poster_.png" crc="4253922513" ref="index"/>
+    <file name="pasted svg 33746x46.svg" crc="4113765139" ref="index"/>
+    <file name="pasted svg 33746x46_poster_.png" crc="4236889341" ref="index"/>
+    <file name="pen-ruler_poster_.png" crc="4116807242" ref="index"/>
+    <file name="bulbnolihgt_poster_.png" crc="438378151" ref="index"/>
+    <file name="bulb.svg" crc="471790178" ref="index"/>
+    <file name="bulb_poster_.png" crc="17791896" ref="index"/>
+    <file name="app_poster_.png" crc="306172111" ref="index"/>
+    <file name="vector_poster_.png" crc="476205897" ref="index"/>
+    <file name="global_l_poster_.png" crc="443420332" ref="index"/>
+    <file name="location_f.svg" crc="213867538" ref="index"/>
+    <file name="location_f_poster_2.png" crc="345538244" ref="index"/>
+    <file name="infinity2_poster_.png" crc="355989705" ref="index"/>
+    <file name="lookcover_poster_.png" crc="4097052485" ref="index"/>
+    <file name="polyfooter-042.png" crc="3902884075" ref="index"/>
+    <file name="wechat.jpg" crc="229876239" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="381874822" ref="phone>index"/>
+      <file name="index.css" crc="361292376" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="110362335" seo="true" mt="1484576508128" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="81342560" seo="true" mt="1484575386433" redirect="true"/>
+</manifest>

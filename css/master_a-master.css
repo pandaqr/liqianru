@@ -1,0 +1,556 @@
+#u1462
+{
+	background: transparent url("../images/polybg2-012.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u706-4
+{
+	background-color: transparent;
+	color: #2E797E;
+	position: relative;
+}
+
+#u172
+{
+	-webkit-transform: matrix(0.7431,-0.6691,0.6691,0.7431,-12,34);
+	-ms-transform: matrix(0.7431,-0.6691,0.6691,0.7431,-12,34);
+	transform: matrix(0.7431,-0.6691,0.6691,0.7431,-12,34);
+	position: relative;
+}
+
+#u177
+{
+	-webkit-transform: matrix(0.225,0.9744,-0.9744,0.225,63,3);
+	-ms-transform: matrix(0.225,0.9744,-0.9744,0.225,63,3);
+	transform: matrix(0.225,0.9744,-0.9744,0.225,63,3);
+	position: relative;
+}
+
+#u345
+{
+	-webkit-transform: matrix(0.2924,-0.9563,0.9563,0.2924,12,42);
+	-ms-transform: matrix(0.2924,-0.9563,0.9563,0.2924,12,42);
+	transform: matrix(0.2924,-0.9563,0.9563,0.2924,12,42);
+	position: relative;
+}
+
+#u167
+{
+	-webkit-transform: matrix(0.788,-0.6157,0.6157,0.788,-11,15);
+	-ms-transform: matrix(0.788,-0.6157,0.6157,0.788,-11,15);
+	transform: matrix(0.788,-0.6157,0.6157,0.788,-11,15);
+	position: relative;
+}
+
+#u145-4
+{
+	background-color: transparent;
+	color: #E4C22D;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u145-4:hover p
+{
+	color: #398B91;
+	visibility: inherit;
+}
+
+#u351-4
+{
+	background-color: transparent;
+	color: #E4C22D;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+}
+
+#u154-15
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 48px;
+	font-size: 24px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+}
+
+#u1932
+{
+	-pie-box-shadow: 11px 4px 6px #7F7F7F;
+	box-shadow: 11px 4px 6px rgba(0,0,0,0.5);
+	background-color: #181818;
+	position: fixed;
+}
+
+#u2570-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u194-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u195-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u2444-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u2570-4:hover p,#u194-4:hover p,#u195-4:hover p,#u2444-4:hover p
+{
+	color: #DDB723;
+	visibility: inherit;
+}
+
+#u445
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u438
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u441
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u486-19
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+}
+
+#u486-12,#u486-17
+{
+	font-size: 18px;
+	line-height: 23px;
+	color: #CBCBCB;
+}
+
+#u635
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u862
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1065
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u871
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1015
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u989
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1001
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1004
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u234-4,#u480-4,#u643-4,#u653-4,#u657-4
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	color: #E4C22D;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u665-20
+{
+	font-weight: normal;
+}
+
+#u707,#u237
+{
+	overflow: hidden;
+	position: relative;
+}
+
+#u209-4,#u479-4,#u607-4,#u638-4,#u642-4,#u652-4,#u656-4,#u667-4,#u660-4
+{
+	background-color: transparent;
+	color: #E4C22D;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u1078,#u1152,#u1068,#u1082,#u1248,#u1092,#u1142,#u1117,#u1125
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u608-4,#u639-4,#u666-4,#u661-4
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	color: #E4C22D;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+}
+
+#u242-32,#u623-22,#u641-10,#u645-18,#u655-35,#u659-17,#u665-25,#u663-13
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	line-height: 23px;
+	color: #CBCBCB;
+	font-size: 18px;
+	position: relative;
+}
+
+#u242-2,#u242-7,#u242-9,#u242-11,#u242-13,#u242-18,#u242-20,#u242-21,#u242-23,#u242-24,#u486-2,#u486-4,#u486-6,#u623-2,#u623-4,#u623-6,#u623-8,#u623-10,#u623-13,#u623-15,#u623-18,#u645,#u645-8,#u645-12,#u645-14,#u655-15,#u655-17,#u655-19,#u655-21,#u655-24,#u655-26,#u655-29,#u659-2,#u659-4,#u659-5,#u659-7,#u659-12,#u665-2,#u665-4,#u665-6,#u665-7,#u665-9,#u665-10,#u665-13,#u665-15,#u663-2,#u663-9
+{
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+}
+
+#u971
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u975
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u978
+{
+	background-color: transparent;
+	position: relative;
+}
+
+.js #u234-4.ose_pre_init,.js #u242-32.ose_pre_init,#u445:hover,#u438:hover,#u441:hover,.js #u1078.ose_pre_init,.js #u1152.ose_pre_init,.js #u480-4.ose_pre_init,.js #u486-19.ose_pre_init,#u635:hover,#u862:hover,.js #u1068.ose_pre_init,.js #u1065.ose_pre_init,.js #u608-4.ose_pre_init,.js #u623-22.ose_pre_init,.js #u1082.ose_pre_init,.js #u639-4.ose_pre_init,.js #u641-10.ose_pre_init,#u871:hover,#u1015:hover,.js #u643-4.ose_pre_init,.js #u645-18.ose_pre_init,.js #u1248.ose_pre_init,.js #u1092.ose_pre_init,.js #u653-4.ose_pre_init,.js #u655-35.ose_pre_init,#u989:hover,#u1001:hover,#u1004:hover,.js #u1142.ose_pre_init,.js #u657-4.ose_pre_init,.js #u659-17.ose_pre_init,.js #u666-4.ose_pre_init,.js #u665-25.ose_pre_init,.js #u1117.ose_pre_init,.js #u1125.ose_pre_init,.js #u661-4.ose_pre_init,.js #u663-13.ose_pre_init,#u971:hover,#u975:hover,#u978:hover
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u729
+{
+	background: transparent url("../images/polypink-01.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u714-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u714-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u714
+{
+	line-height: 58px;
+}
+
+#u715
+{
+	-webkit-transform: matrix(0,-1,1,0,-7,55);
+	-ms-transform: matrix(0,-1,1,0,-7,55);
+	transform: matrix(0,-1,1,0,-7,55);
+	position: relative;
+}
+
+#u760
+{
+	position: relative;
+	background: transparent url("../images/perspective%20app%20screens%20mock-up.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1177
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	overflow: hidden;
+	position: relative;
+}
+
+#u836
+{
+	position: relative;
+	background: transparent url("../images/bingu%20intro.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1183
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	overflow: hidden;
+	position: relative;
+}
+
+#u3205
+{
+	position: relative;
+	background: transparent url("../images/perspective_shufu%20copy.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u3203
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	overflow: hidden;
+	position: relative;
+}
+
+#u236,#u1188,#u299,#u466,#u464,#u465,#u1211,#u482,#u856,#u865,#u1212,#u1081,#u622,#u1213,#u640,#u876,#u1018,#u1219,#u644,#u1218,#u654,#u1009,#u1007,#u1008,#u1222,#u658,#u1228,#u664,#u1227,#u662,#u974,#u981,#u982,#u1182,#u1186,#u3202,#u3198
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3201
+{
+	position: relative;
+	background: transparent url("../images/perspective%20shopbop.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u3199
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	overflow: hidden;
+	position: relative;
+}
+
+#u2293-4,#u2294-4,#u3206-4,#u3207-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	position: relative;
+}
+
+#u2293,#u2294,#u3206,#u3207
+{
+	color: #FFFFFF;
+}
+
+#u713
+{
+	background-color: #AC394A;
+}
+
+#u2426
+{
+	background-color: #B35C5E;
+}
+
+#u591
+{
+	background: transparent url("../images/polyfooter-042.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u604-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: comfortaa, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u2427
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	overflow: hidden;
+	position: relative;
+}
+
+#u2430
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	overflow: hidden;
+	position: relative;
+}
+
+#u2454
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u2455
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/wechat.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1462_align_to_page,#u188,#u157,#aboutme,#stop1,#u459,#u449,#u454,#stop2,#u624,#u857,#u866,#u1010,#u986,#u983,#u991,#u953,#u959,#u956,#u729_align_to_page,#portfolio,#contact,#u591_align_to_page,#pamphletu2451,#u2472
+{
+	position: relative;
+}
+
+#u2473
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2473.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2433
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1065:hover,#u1177:hover,#u1183:hover,#u3203:hover,#u3199:hover,#u2427:hover,#u2430:hover,#u2473:hover #u2433
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u2473.PamphletThumbSelected #u2433
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+

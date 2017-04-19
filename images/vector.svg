@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="36px" viewBox="0 0 48 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-498.000000, -636.000000)" fill="#E5C228">
+            <g id="Vector" transform="translate(498.000000, 636.000000)">
+                <path d="M3.961,23.157 C5.201,18.069 8.349,13.768 12.824,11.048 C17.298,8.329 22.562,7.515 27.65,8.757 C32.734,9.995 37.033,13.142 39.754,17.616 C42.475,22.09 43.289,27.356 42.049,32.444 L43.992,32.919 C45.359,27.312 44.461,21.509 41.463,16.577 C38.465,11.647 33.729,8.179 28.123,6.813 C22.518,5.446 16.716,6.342 11.786,9.338 C6.854,12.336 3.386,17.074 2.017,22.682 L3.961,23.157 L3.961,23.157 Z" id="Shape"></path>
+                <circle id="Oval" cx="2.675" cy="24.573" r="2.216"></circle>
+                <circle id="Oval" cx="42.417" cy="33.409" r="2.218"></circle>
+                <path d="M30.799,7.433 C30.799,8.972 29.559,10.216 28.024,10.216 C26.491,10.216 25.247,8.972 25.247,7.433 C25.247,5.904 26.491,4.66 28.024,4.66 C29.559,4.659 30.799,5.903 30.799,7.433 L30.799,7.433 Z" id="Shape"></path>
+                <path d="M10.189,1.536 L45.982,12.108" id="Shape"></path>
+                <rect id="Rectangle-path" transform="translate(28.083087, 6.822606) rotate(196.450649) translate(-28.083087, -6.822606) " x="9.42188713" y="6.32258744" width="37.3224004" height="1.00003752"></rect>
+                <circle id="Oval" cx="10.343" cy="1.604" r="1.23"></circle>
+                <circle id="Oval" cx="46.311" cy="12.364" r="1.23"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
