@@ -1,2 +1,3 @@
 # liqianru
-A personal website
+A personal website built with Adobe Muse, there may be some error when open on github, will ajust and try to code the website direcly soon ... 
+
